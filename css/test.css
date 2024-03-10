@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-size: 30px;
+    color:lavender;
+}
+
+h2{
+    font-size: 45px;
+    color:hotpink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.big{
+    font-size: 56px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: navy;
+}
+
+h1 span{
+    color: violet;
+}
